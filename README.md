@@ -67,7 +67,6 @@ Untuk mengakses website ini ikutlah panduan berikut:
 ![photo_2022-06-11_18-08-52](https://user-images.githubusercontent.com/107101610/173185900-1e377cae-8f76-4e8f-92b8-9a36ebdc0097.jpg)
 
 # Referensi 📕
-youtube
 https://youtu.be/GEI1MbBHiMY Diakses Pada 8 Juni 2022.
 https://youtu.be/ECuqb5Tv9qI Diakses Pada 8 Juni 2022.
 https://youtu.be/6NO7LimwGcg Diakses Pada 9 Juni 2022.
