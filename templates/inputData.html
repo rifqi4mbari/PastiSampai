@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+  {% block sub_content %}
+    <form method="post">
+      ID Pengiriman:<input type="text" name="id_pengiriman" /><br>
+      Tanggal Pengiriman:<input type="date" name="tanggal_pengiriman" /><br>
+      Jenis Pengiriman:<select name="jenis_pengiriman" >
+        <option value="Darat">Darat</option>
+        <option value="Laut">Laut</option>
+        <option value="Udara">Udara</option>
+      </select><br>
+      Jenis Barang:<input type="text" name="jenis_barang" /><br>
+      Asal Pengiriman:<input type="text" name="asal_pengiriman" /><br>
+      Tujuan Pengiriman:<input type="text" name="tujuan_pengiriman" /><br>
+      Status Pengiriman:<select name="status_pengiriman">
+        <option value="dikirim">dikirim</option>
+        <option value="tidak">tidak</option>
+      </select><br>
+      <input type="submit"/>
+    </form>
+  {% endblock %}

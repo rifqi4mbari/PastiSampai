@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+{% block sub_content %}
+<table class="table">
+  <tr>
+    <th>ID Pengiriman</th>
+    <th>Tanggal Pengiriman</th>
+    <th>Jenis Pengiriman</th>
+    <th>Jenis Barang</th>
+    <th>Asal Pengiriman</th>
+    <th>Tujuan Pengiriman</th>
+    <th>Status Pengiriman</th>
+    <th>AKSI</th>
+  </tr>
+  {% for inputData in list %}
+  <tr>
+    <td>{{ inputData.id_pengiriman }}</td>
+    <td>{{ inputData.tanggal_pengiriman }}</td>
+    <td>{{ inputData.jenis_pengiriman }}</td>
+    <td>{{ inputData.jenis_barang }}</td>
+    <td>{{ inputData.asal_pengiriman }}</td>
+    <td>{{ inputData.tujuan_pengiriman }}</td>
+    <td>{{ inputData.status_pengiriman }}</td>
+    <td>
+      <a href="/edit/{{ inputData.id_pengiriman }}">Edit</a>
+      <a href="/delete/{{ inputData.id_pengiriman }}">Delete</a>
+  </tr>
+  {% endfor %}
+</table>
+{% endblock %}
