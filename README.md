@@ -59,7 +59,7 @@ Untuk mengakses website ini ikutlah panduan berikut:
 ## Cara Menggunakan Fitur Delete
 1. Klik **Delete** pada data yang ingin dihapus.
 ![image](https://user-images.githubusercontent.com/107101610/173185767-fec66957-6ab1-4607-9fc9-566877c7c0e7.png)
-2. Klik **Ok** pada tampilan yang muncul.
+3. Klik **Ok** pada tampilan yang muncul.
 ![photo_2022-06-11_18-08-58](https://user-images.githubusercontent.com/107101610/173185839-9c5c53af-d8ef-4def-b665-2a9fe7647500.jpg)
 
 # Aplikasi PastiSampai.co
