@@ -37,7 +37,7 @@ Pada tampilan awal web terdiri dari fitur Home.
 - Search
 - Delete
 ### Pengguna
-Pengguna akan dijelaskan mengenai menu-menu yang ada di website dan tata cara memasukkan data, mengedit data, serta menghapus data.
+Pengguna akan dijelaskan mengenai menu-menu yang ada di website dan tata cara memasukkan data, mencari data, serta menghapus data.
 ## Cara Membuka Website
 Untuk mengakses website ini ikutlah panduan berikut:
 1. Buka aplikasi PastiSampai.co melalui Web Browser (Mozila FireFox, Google Chrome atau lainnya) dengan alamat url sebagai berikut: https://PastiSampai.co.id
