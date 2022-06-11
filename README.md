@@ -1,6 +1,6 @@
-# PastiSampai
+# PastiSampai 📫
 
-## Hi there, We Are Team 7 - Case Study 3 👋 
+# Hi there, We Are Team 7 - Case Study 3 👋 
 
 # Data Anggota Tim 📝
 
@@ -26,19 +26,19 @@ Banyaknya jumlah permintaan barang yang dikirim menggunakan jasa pengiriman bara
 # Solusi 💬
 Aplikasi CepatSampai menggunakan inputan id pengiriman sehingga kami bisa lebih mudah memonitori status pengiriman barang secara akurat. Data yang dimasukkan akan disimpan pada database sehingga akan lebih teratur dan mudah dalam penggunaannya.
 
-# FlowChart Aplikasi
+# FlowChart Aplikasi 🌱
 ![image](https://user-images.githubusercontent.com/107101610/173183342-33fe3e62-5576-4492-afdf-0f20ffb394ce.png)
 
-# Panduan Penggunaan Aplikasi
+# Panduan Penggunaan Aplikasi 📕
 ## Tampilan Awal Web
 Pada tampilan awal web terdiri dari fitur Home.
-### Fitur Home
+### Fitur Home 🥅
 - Input Data
 - Search
 - Delete
-### Pengguna
+### Pengguna 👨‍💻
 Pengguna akan dijelaskan mengenai menu-menu yang ada di website dan tata cara memasukkan data, mencari data, serta menghapus data.
-## Cara Membuka Website
+## Cara Membuka Website 
 Untuk mengakses website ini ikutlah panduan berikut:
 1. Buka aplikasi PastiSampai.co melalui Web Browser (Mozila FireFox, Google Chrome atau lainnya) dengan alamat url sebagai berikut: https://PastiSampai.co.id
 2. Kemudian tekan **Enter** pada keyboard.
@@ -63,10 +63,11 @@ Untuk mengakses website ini ikutlah panduan berikut:
 2. Klik **Ok** pada tampilan yang muncul.
 ![photo_2022-06-11_18-08-58](https://user-images.githubusercontent.com/107101610/173185839-9c5c53af-d8ef-4def-b665-2a9fe7647500.jpg)
 
-# Aplikasi PastiSampai.co
+# Aplikasi PastiSampai.co 📫
 ![photo_2022-06-11_18-08-52](https://user-images.githubusercontent.com/107101610/173185900-1e377cae-8f76-4e8f-92b8-9a36ebdc0097.jpg)
 
-# Referensi
+# Referensi 📕
+youtube
 https://youtu.be/GEI1MbBHiMY Diakses Pada 8 Juni 2022.
 https://youtu.be/ECuqb5Tv9qI Diakses Pada 8 Juni 2022.
 https://youtu.be/6NO7LimwGcg Diakses Pada 9 Juni 2022.
