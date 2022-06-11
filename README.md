@@ -25,3 +25,7 @@ Banyaknya jumlah permintaan barang yang dikirim menggunakan jasa pengiriman bara
 
 # Solusi 💬
 Aplikasi CepatSampai menggunakan inputan id pengiriman sehingga kami bisa lebih mudah memonitori status pengiriman barang secara akurat. Data yang dimasukkan akan disimpan pada database sehingga akan lebih teratur dan mudah dalam penggunaannya.
+
+# FlowChart Aplikasi
+
+![image](https://user-images.githubusercontent.com/107101610/173183342-33fe3e62-5576-4492-afdf-0f20ffb394ce.png)
