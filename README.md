@@ -35,6 +35,7 @@ Pada tampilan awal web terdiri dari fitur Home.
 ### Fitur Home
 - Input Data
 - Search
+- Delete
 ### Pengguna
 Pengguna akan dijelaskan mengenai menu-menu yang ada di website dan tata cara memasukkan data, mengedit data, serta menghapus data.
 ## Cara Membuka Website
